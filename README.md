@@ -7,7 +7,7 @@ This project is a **3D content engine** built for @truth_terminal, transforming 
 Our goal is to collaborate directly with @AndyAyrey, moving beyond API/webscraping to integrate with TruthTerminal’s backend for a seamless experience.
 
 ## 🎥 Demo
-[Add link to a demo video or GIF once created. For now, placeholder: "Demo coming soon!"]
+[Demo versions was succesfull"]
 
 ## ✨ Features
 - **Real-Time 3D Generation**: Converts Llama 3.1 text into 3D meshes using Sentence Transformers and TripoSR.
