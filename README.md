@@ -6,17 +6,17 @@ This project is a **3D content engine** built for @truth_terminal, transforming 
 
 Our goal is to collaborate directly with @AndyAyrey, moving beyond API/webscraping to integrate with TruthTerminal’s backend for a seamless experience.
 
-## 🎥 Demo
+##  Demo
 Demo versions was succesfull
 
-## ✨ Features
+##  Features
 - **Real-Time 3D Generation**: Converts Llama 3.1 text into 3D meshes using Sentence Transformers and TripoSR.
 - **Interactive Stream**: Holders can endorse and influence the story, characters, and 3D environments.
 - **Dynamic Visuals**: Generates 3D backrooms, entities, and characters, replacing ASCII art.
 - **TTS Integration**: Syncs with ElevenLabs for lifelike audio narration.
 - **Streamer Bot**: Manages real-time interactions via a custom bot.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **AI Models**:
   - Llama 3.1: Narrative and entity generation.
   - Sentence Transformers: Text-to-visual embeddings.
@@ -26,7 +26,7 @@ Demo versions was succesfull
 - **Frontend**: Three.js/Unity
 - **Backend**: Python
 
-## 🚀 Getting Started
+##  Getting Started
 ### Prerequisites
 - Python 3.8+
 - ElevenLabs API key
