@@ -7,7 +7,7 @@ This project is a **3D content engine** built for @truth_terminal, transforming 
 Our goal is to collaborate directly with @AndyAyrey, moving beyond API/webscraping to integrate with TruthTerminal’s backend for a seamless experience.
 
 ## 🎥 Demo
-[Demo versions was succesfull"]
+Demo versions was succesfull
 
 ## ✨ Features
 - **Real-Time 3D Generation**: Converts Llama 3.1 text into 3D meshes using Sentence Transformers and TripoSR.
@@ -23,17 +23,20 @@ Our goal is to collaborate directly with @AndyAyrey, moving beyond API/webscrapi
   - TripoSR: Text-to-3D mesh generation.
 - **Streaming**: Custom pipeline for real-time interaction.
 - **TTS**: ElevenLabs API for voice narration.
-- **Frontend**: [e.g., Three.js/Unity, specify your choice].
-- **Backend**: [e.g., Python/FastAPI, specify your choice].
+- **Frontend**: Three.js/Unity
+- **Backend**: Python
 
 ## 🚀 Getting Started
 ### Prerequisites
 - Python 3.8+
 - ElevenLabs API key
-- [Add other dependencies, e.g., OBS for streaming]
+- OBS for streaming
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/[YourUsername]/TruthTerminal-3D-Stream.git
-   cd TruthTerminal-3D-Stream
+CONTRIBUTING.
+# Contributing to TruthTerminal-3D-Stream
+
+We welcome contributions! To collaborate, especially with @AndyAyrey, please:
+1. Fork the repository.
+2. Create a branch: `git checkout -b feature/your-feature`.
+3. Submit a pull request with clear descriptions.
+4. For direct integration with TruthTerminal, contact us via GitHub or X (@v01dpr1mr0s3).
